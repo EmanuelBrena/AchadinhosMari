@@ -1,0 +1,416 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta
+    name="description"
+    content="Achadinhos da Mari: produtos especiais escolhidos com carinho."
+  >
+
+  <title>Achadinhos da Mari | Ofertas e descobertas</title>
+
+  <link rel="stylesheet" href="./style.css?v=20261031-3">
+  <script src="./script.js?v=20261031-3" defer></script>
+
+  <!-- Meta Pixel: carregado somente após consentimento -->
+  <script>
+    const PIXEL_ID = '26203184796014056';
+
+    function ativarPixel() {
+      if (window.fbq) return;
+
+      !function(f,b,e,v,n,t,s) {
+        if (f.fbq) return;
+
+        n = f.fbq = function() {
+          n.callMethod
+            ? n.callMethod.apply(n, arguments)
+            : n.queue.push(arguments);
+        };
+
+        if (!f._fbq) f._fbq = n;
+
+        n.push = n;
+        n.loaded = true;
+        n.version = '2.0';
+        n.queue = [];
+
+        t = b.createElement(e);
+        t.async = true;
+        t.src = v;
+
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s);
+
+      }(
+        window,
+        document,
+        'script',
+        'https://connect.facebook.net/en_US/fbevents.js'
+      );
+
+      fbq('init', PIXEL_ID);
+      fbq('track', 'PageView');
+    }
+
+    if (localStorage.getItem('mari_pixel_consent') === 'aceito') {
+      ativarPixel();
+    }
+  </script>
+</head>
+
+<body>
+
+  <div class="announcement">
+    ✦ Achados especiais escolhidos com carinho
+  </div>
+
+  <header class="header">
+    <div class="container header-content">
+
+      <a
+        class="logo"
+        href="./"
+        aria-label="Achadinhos da Mari - início"
+      >
+        <span class="logo-icon">✦</span>
+        Achadinhos <strong>da Mari</strong>
+      </a>
+
+      <nav aria-label="Navegação principal">
+        <a href="#ofertas">Ofertas</a>
+        <a href="#sobre">Sobre</a>
+
+        <a
+          id="nav-insta"
+          hidden
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Instagram ↗
+        </a>
+      </nav>
+
+    </div>
+  </header>
+
+  <main>
+
+    <section class="hero">
+      <div class="container hero-inner">
+
+        <div class="hero-copy">
+
+          <span class="eyebrow">
+            ✦ SEU CANTINHO DE DESCOBERTAS
+          </span>
+
+          <h1>
+            Achados incríveis.<br>
+            <em>Preços que encantam.</em>
+          </h1>
+
+          <p>
+            Uma seleção especial de produtos para facilitar
+            sua vida e deixar o dia a dia mais gostoso.
+          </p>
+
+          <a class="hero-button" href="#ofertas">
+            Explorar achadinhos ↗
+          </a>
+
+          <small>
+            ♡ Escolhas feitas com carinho pela Mari
+          </small>
+
+        </div>
+
+        <div class="hero-art" aria-hidden="true">
+          <div class="circle"></div>
+          <span class="bag">🛍️</span>
+          <span class="sparkle">✦</span>
+          <span class="hero-sticker">✨ Achou, amou!</span>
+        </div>
+
+      </div>
+    </section>
+
+    <div class="benefits">
+      <div class="container benefits-inner">
+        <span>✦ Produtos selecionados</span>
+        <span>♡ Descobertas especiais</span>
+        <span>↗ Compra na loja parceira</span>
+      </div>
+    </div>
+
+    <section id="ofertas" class="container catalog">
+
+      <div class="section-heading">
+        <div>
+          <span class="section-label">
+            ESCOLHAS DA MARI
+          </span>
+
+          <h2>
+            Encontre seu próximo <em>favorito.</em>
+          </h2>
+
+          <p>
+            Explore as ofertas e descubra algo que combine com você.
+          </p>
+        </div>
+
+        <span id="contador" class="counter">
+          Carregando...
+        </span>
+      </div>
+
+      <div class="filters">
+
+        <label class="search">
+          <span aria-hidden="true">⌕</span>
+
+          <input
+            type="search"
+            id="pesquisa"
+            placeholder="O que você está procurando?"
+            aria-label="Pesquisar produtos"
+          >
+        </label>
+
+        <label class="sort">
+          Ordenar:
+
+          <select id="ordenacao">
+            <option value="recentes">Mais recentes</option>
+            <option value="menor">Menor preço</option>
+            <option value="maior">Maior preço</option>
+            <option value="az">Nome A–Z</option>
+          </select>
+        </label>
+
+      </div>
+
+      <div class="category-filter-wrap">
+
+        <label
+          class="category-select-shell"
+          for="categorias"
+        >
+
+          <span
+            class="category-filter-icon"
+            aria-hidden="true"
+          >☷</span>
+
+          <select
+            id="categorias"
+            aria-label="Filtrar produtos por categoria"
+          >
+            <option value="">
+              Todas as categorias
+            </option>
+          </select>
+
+          <span
+            class="category-select-chevron"
+            aria-hidden="true"
+          >⌄</span>
+
+        </label>
+
+      </div>
+
+      <div
+        id="produtos"
+        class="products"
+        aria-live="polite"
+      ></div>
+
+      <p
+        id="mensagem"
+        class="message"
+        role="status"
+      >
+        Carregando achadinhos...
+      </p>
+
+    </section>
+
+    <section id="sobre" class="community">
+
+      <div class="container community-inner">
+
+        <div>
+          <span class="section-label">
+            FIQUE POR DENTRO
+          </span>
+
+          <h2>Mais achadinhos chegando!</h2>
+
+          <p>
+            Acompanhe as novidades e descubra
+            as próximas escolhas da Mari.
+          </p>
+        </div>
+
+        <div class="socials">
+
+          <a
+            id="telegram"
+            hidden
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Entrar no Telegram ↗
+          </a>
+
+          <a
+            id="instagram"
+            hidden
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Seguir no Instagram ↗
+          </a>
+
+          <span id="social-placeholder">
+            Em breve, novidades nas nossas redes!
+          </span>
+
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+  <footer>
+
+    <div class="container footer-inner">
+
+      <div>
+        <strong>✦ Achadinhos da Mari</strong>
+
+        <p>
+          Achados especiais para todos os dias.
+        </p>
+      </div>
+
+      <div class="legal">
+
+        <p>
+          Alguns links são de afiliados e podem gerar
+          comissões sem custo adicional para você.
+          A compra é realizada na loja parceira.
+        </p>
+
+        <p>
+          Preços e disponibilidade podem mudar.
+          Confira as condições na loja.
+        </p>
+
+        <small>
+          © <span id="ano"></span> Achadinhos da Mari.
+        </small>
+
+      </div>
+
+    </div>
+
+  </footer>
+
+  <!-- Consentimento do Pixel -->
+  <div
+    id="aviso-privacidade"
+    role="dialog"
+    aria-label="Preferências de privacidade"
+    style="
+      display:none;
+      position:fixed;
+      bottom:16px;
+      left:16px;
+      right:16px;
+      max-width:520px;
+      margin:auto;
+      padding:20px;
+      background:white;
+      color:#302a2d;
+      border:1px solid #e8e1dd;
+      border-radius:14px;
+      box-shadow:0 8px 35px rgba(0,0,0,.15);
+      z-index:9999;
+      font-family:inherit;
+    "
+  >
+    <p style="margin:0 0 14px;line-height:1.5;">
+      Utilizamos tecnologias de análise e publicidade,
+      como o Pixel da Meta, somente com sua autorização.
+      Você pode aceitar ou recusar.
+    </p>
+
+    <div style="display:flex;gap:10px;flex-wrap:wrap;">
+
+      <button
+        id="aceitar-pixel"
+        type="button"
+        style="
+          padding:11px 18px;
+          background:#ed784a;
+          color:white;
+          border:0;
+          border-radius:9px;
+          cursor:pointer;
+          font-weight:700;
+        "
+      >
+        Aceitar
+      </button>
+
+      <button
+        id="recusar-pixel"
+        type="button"
+        style="
+          padding:11px 18px;
+          background:#f3f0ed;
+          color:#302a2d;
+          border:0;
+          border-radius:9px;
+          cursor:pointer;
+          font-weight:700;
+        "
+      >
+        Recusar
+      </button>
+
+    </div>
+  </div>
+
+  <script>
+    const aviso = document.getElementById('aviso-privacidade');
+    const consentimento = localStorage.getItem('mari_pixel_consent');
+
+    if (consentimento !== 'aceito' && consentimento !== 'recusado') {
+      aviso.style.display = 'block';
+    }
+
+    document.getElementById('aceitar-pixel')
+      .addEventListener('click', () => {
+        localStorage.setItem('mari_pixel_consent', 'aceito');
+        ativarPixel();
+        aviso.style.display = 'none';
+      });
+
+    document.getElementById('recusar-pixel')
+      .addEventListener('click', () => {
+        localStorage.setItem('mari_pixel_consent', 'recusado');
+        aviso.style.display = 'none';
+      });
+  </script>
+
+</body>
+</html>

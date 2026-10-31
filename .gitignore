@@ -1,0 +1,7 @@
+.env
+.venv/
+.idea/
+__pycache__/
+BackEnd/
+Models/
+exportar_produtos.py

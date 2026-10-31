@@ -1,0 +1,402 @@
+[
+  {
+    "id": 56,
+    "nome_produto": "Kit 5 Escovas de Cabelo + Touca de Cetim – Raquete Fashion, Mágica, Polvo, Massageadora de Silicone",
+    "link_afiliado": "https://s.shopee.com.br/1gJoWvwH8S",
+    "preco": 22.9,
+    "categoria": "Kit",
+    "imagem_url": "https://down-aka-br.img.susercontent.com/br-11134207-7r98o-may3rf8imbnze8.webp"
+  },
+  {
+    "id": 55,
+    "nome_produto": "ULTRA HIDRATAÇÃO EFEITO TEIA COM ÓLEOS MARROQUINOS - OURO MARROQUINO - FINA MARIA PROFISSIONAL",
+    "link_afiliado": "https://s.shopee.com.br/5VWX5tSrMS",
+    "preco": 38.9,
+    "categoria": "Cabelos",
+    "imagem_url": "https://down-aka-br.img.susercontent.com/sg-11134201-8258h-mr1ynaykoao016.webp"
+  },
+  {
+    "id": 54,
+    "nome_produto": "Kit 05 Escova Raquete Flex Escova Mágica e Polvo Massageador de Silicone Touca de Cetim Beauty Flash",
+    "link_afiliado": "https://s.shopee.com.br/7Ael4sxjQy",
+    "preco": 24.9,
+    "categoria": "Kit",
+    "imagem_url": "https://down-aka-br.img.susercontent.com/sg-11134201-822xr-mo8c5nfwkh6q4c.webp"
+  },
+  {
+    "id": 53,
+    "nome_produto": "KIT CAPILAR MIX DE SILICONE SOUL 3 itens - SHAMPOO TURBO - CONDICIONADOR TURBO E MÁSCARA CAPILAR",
+    "link_afiliado": "https://s.shopee.com.br/7VHbTPxj8I",
+    "preco": 26.96,
+    "categoria": "Kit",
+    "imagem_url": "https://down-aka-br.img.susercontent.com/br-11134207-820m1-mr91da96uccn1a.webp"
+  },
+  {
+    "id": 52,
+    "nome_produto": "Maquina De Barbear Aparador e Depilador de Pelos Elétrico 3 Em 1",
+    "link_afiliado": "https://s.shopee.com.br/2gCLiTdT1W",
+    "preco": 39.99,
+    "categoria": "Eletronicos",
+    "imagem_url": "https://down-aka-br.img.susercontent.com/2d057615f70fa443efd4993017efb565.webp"
+  },
+  {
+    "id": 51,
+    "nome_produto": "Kit Body Splash Feminino Arabe 60ml Shakan Coroa Amber Sereia Rubi Ametysta Presente Bolsa Ambarados",
+    "link_afiliado": "https://s.shopee.com.br/9zywReshI1",
+    "preco": 15.89,
+    "categoria": "Kit",
+    "imagem_url": "https://down-aka-br.img.susercontent.com/br-11134207-820m3-mpnvskafmdc004.webp"
+  },
+  {
+    "id": 50,
+    "nome_produto": "Lixador de Pé Elétrico - Esfoliador Tira Calos Pedicure Portátil",
+    "link_afiliado": "https://s.shopee.com.br/6fiUTTkbGu",
+    "preco": 15.99,
+    "categoria": "Eletronicos",
+    "imagem_url": "https://down-aka-br.img.susercontent.com/br-11134207-7r98o-lr68nerol2joe0.webp"
+  },
+  {
+    "id": 49,
+    "nome_produto": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler 110V",
+    "link_afiliado": "https://s.shopee.com.br/7puRrY8ImF",
+    "preco": 40.99,
+    "categoria": "Eletronicos",
+    "imagem_url": "https://down-aka-br.img.susercontent.com/sg-11134201-7rccl-lrqtwd8r8kc859.webp"
+  },
+  {
+    "id": 48,
+    "nome_produto": "Kit 50 Adesivos Para Pés Alivio de Dores Eliminação de Odores Impurezas Toxinas Detox Natural",
+    "link_afiliado": "https://s.shopee.com.br/LoQvhpfWo",
+    "preco": 55.88,
+    "categoria": "Kit",
+    "imagem_url": "https://down-aka-br.img.susercontent.com/br-11134207-820le-mso9j18a9jb876.webp"
+  },
+  {
+    "id": 47,
+    "nome_produto": "Shampoo Tonalizante Escurecedor S/ Amônia 100% Natural Lindacolor",
+    "link_afiliado": "https://s.shopee.com.br/1gJoVfbk8M",
+    "preco": 14.99,
+    "categoria": "Cabelos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820lz-mmz137ddk4cg6c.webp"
+  },
+  {
+    "id": 46,
+    "nome_produto": "Kit 4 Body Splash victoria Lançamento Vanilla love speel pure seduction coconut",
+    "link_afiliado": "https://s.shopee.com.br/LoQv9z0F9",
+    "preco": 28.57,
+    "categoria": "Kit",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-825zn-mm0k4wk8o3k0b4.webp"
+  },
+  {
+    "id": 45,
+    "nome_produto": "Kit Hidratante Corporal + Body Splash Feminino",
+    "link_afiliado": "https://s.shopee.com.br/4qGqHNnYHR",
+    "preco": 64.93,
+    "categoria": "Kit",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-82612-mm3f153hdssv36.webp"
+  },
+  {
+    "id": 44,
+    "nome_produto": "Shampoo Escurecedor Cabelos Brancos Tonalizante Colored 300ml Efeito 100% Natural",
+    "link_afiliado": "https://s.shopee.com.br/2LZVIiDFai",
+    "preco": 14.99,
+    "categoria": "Cabelos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820mf-mmajzmcmll3a15.webp"
+  },
+  {
+    "id": 43,
+    "nome_produto": "Kit com 6 Pó Cromo Metalizado Unhas Cromado Decoração",
+    "link_afiliado": "https://s.shopee.com.br/8KqiRfQazH",
+    "preco": 18.4,
+    "categoria": "Kit",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820lq-mq6eleib7n5sfe.webp"
+  },
+  {
+    "id": 42,
+    "nome_produto": "Perfumes Feminios Árabes Essência concentrada",
+    "link_afiliado": "https://s.shopee.com.br/1gJoVMe3XO",
+    "preco": 9.9,
+    "categoria": "Perfumes",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-8260k-mlk6fhum1mvj1f.webp"
+  },
+  {
+    "id": 41,
+    "nome_produto": "Maquina De Barbear e Aparador Pelos Elétrico 3 Em 1",
+    "link_afiliado": "https://s.shopee.com.br/8pmz2U0iXM",
+    "preco": 40.64,
+    "categoria": "Eletronicos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/04527aa2d9d6a2e8d2b68d715f079947.webp"
+  },
+  {
+    "id": 40,
+    "nome_produto": "Escova Secadora Alisador Elétrica Quente Cabelo Com 3 Em1 Hair Styler APENAS 110V Jimmystore",
+    "link_afiliado": "https://s.shopee.com.br/7VHbRydEt5",
+    "preco": 37.99,
+    "categoria": "Eletronicos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-7ra3j-mblwmvx5pq1o34.webp"
+  },
+  {
+    "id": 39,
+    "nome_produto": "Kit Manicure Completo 12/16/19 Peças com Estojo Portátil Cortador de Unha Alicate Tesoura Pinça",
+    "link_afiliado": "https://s.shopee.com.br/5LD6rwhKsn",
+    "preco": 19.0,
+    "categoria": "Kit",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820l9-mui5cqsi5szl58.webp"
+  },
+  {
+    "id": 38,
+    "nome_produto": "Kit Body Splash Masculino 2x200ml NeoNoble Inspirado em 212 VIP Black e Sauvage",
+    "link_afiliado": "https://s.shopee.com.br/7puRqTHla6",
+    "preco": 22.5,
+    "categoria": "Kit",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-8259q-mrirzbbo3g1x0f.webp"
+  },
+  {
+    "id": 37,
+    "nome_produto": "Máquina de Cortar Cabelo Dragão Aparador de Barba Masculino Sem Fio USB",
+    "link_afiliado": "https://s.shopee.com.br/BV0iJUyGa",
+    "preco": 19.98,
+    "categoria": "Eletronicos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820m9-mnqfxvmmdwjo82.webp"
+  },
+  {
+    "id": 36,
+    "nome_produto": "Manta Cobertor Microfibra Casal Queen Super Quentinha Toque Macio Cereja Habitat",
+    "link_afiliado": "https://s.shopee.com.br/7puR2tRa4u",
+    "preco": 54.9,
+    "categoria": "Quarto",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134201-820m1-mqxmwfekketj5a.webp"
+  },
+  {
+    "id": 35,
+    "nome_produto": "Suporte para Escova de Dentes com Dispensador de Creme Dental",
+    "link_afiliado": "https://s.shopee.com.br/70LK3IBOzP",
+    "preco": 14.99,
+    "categoria": "Banheiro",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820lh-mn3pco1qhlac0a.webp"
+  },
+  {
+    "id": 34,
+    "nome_produto": "BODY SPLASH FEMININO ARABE AYRA 100ML - PRIMACIAL PERFUME FLORAL",
+    "link_afiliado": "https://s.shopee.com.br/4LKYsKM8aL",
+    "preco": 24.9,
+    "categoria": "Perfumes",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820m1-mukoqlfdn280c5.webp"
+  },
+  {
+    "id": 33,
+    "nome_produto": "1/2/5 Pcs Colorido Fio Fada 2M Com Luzes Led Fada Para Decoração De Casa e Natal Festa",
+    "link_afiliado": "https://s.shopee.com.br/4Vdz4Wu9yJ",
+    "preco": 7.99,
+    "categoria": "Natal",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-825ao-mu7dow70hmgw59.webp"
+  },
+  {
+    "id": 32,
+    "nome_produto": "Liquidificador Mondial L‑99 Turbo 550 W 3 Velocidades",
+    "link_afiliado": "https://s.shopee.com.br/80DrEu85ww",
+    "preco": 112.99,
+    "categoria": "Cozinha",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mc83lzgst4gw71.webp"
+  },
+  {
+    "id": 31,
+    "nome_produto": "Amolador Afiador de Faca Eletrico Tesoura Ferramentas Alicate Amolador Elétrico de Facas Á Pilha",
+    "link_afiliado": "https://s.shopee.com.br/1146tzsJCO",
+    "preco": 29.0,
+    "categoria": "Cozinha",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdx6-mdl9t8sxuafp32.webp"
+  },
+  {
+    "id": 30,
+    "nome_produto": "Kit Dupla Renovadores Faciais Kokeshi Pele Porcelana Olhos Gueixa",
+    "link_afiliado": "https://s.shopee.com.br/4qGpSzIveA",
+    "preco": 38.01,
+    "categoria": "Kit",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820l6-mq3nf4vg8k5f75.webp"
+  },
+  {
+    "id": 29,
+    "nome_produto": "Marroquina Liss única Valyente: Profissional 1000ml | Liso Absurdo Alisa 100% Óleo De Argan",
+    "link_afiliado": "https://s.shopee.com.br/8KqhdKLE9Y",
+    "preco": 47.8,
+    "categoria": "Cabelos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-lp5t4mehp9j9d4.webp"
+  },
+  {
+    "id": 28,
+    "nome_produto": "Caneca Misturadora Automática Elétrica USB Bateria Recarregável Mixer Café 380ml",
+    "link_afiliado": "https://s.shopee.com.br/2gCKsqhSEE",
+    "preco": 33.88,
+    "categoria": "Cozinha",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-81zts-mktlcixqn18h4e.webp"
+  },
+  {
+    "id": 27,
+    "nome_produto": "B&BRobô Varredora/Aspirador De Pó Automática 3 Em 1 Limpeza Doméstica",
+    "link_afiliado": "https://s.shopee.com.br/2BG4Hrujdc",
+    "preco": 35.99,
+    "categoria": "Cozinha",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-821dm-mh9dj2twkavd00.webp"
+  },
+  {
+    "id": 26,
+    "nome_produto": "Fone Bluetooth Sem Fio De Ouvido BT-760 TWS Macaron Headphone Fone de Ouvido",
+    "link_afiliado": "https://s.shopee.com.br/2LZUU6qHlg",
+    "preco": 40.99,
+    "categoria": "Eletronicos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820mf-mrk5q70ufqx31a.webp"
+  },
+  {
+    "id": 25,
+    "nome_produto": "1/2/5 Suporte De Parede Multifuncional Caixa De Armazenamento",
+    "link_afiliado": "https://s.shopee.com.br/70LK2RnRmo",
+    "preco": 7.37,
+    "categoria": "Eletronicos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-8258x-msf4mu1o9q1124.webp"
+  },
+  {
+    "id": 24,
+    "nome_produto": "Carregador Sem Fio 5000/10000mAh iPhone",
+    "link_afiliado": "https://s.shopee.com.br/9KjEodCOeE",
+    "preco": 27.42,
+    "categoria": "Eletronicos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-mavkx3k4v9n308.webp"
+  },
+  {
+    "id": 23,
+    "nome_produto": "Mochila Térmica Grande Capacidade Cooler Portátil Piquenique Quente Frio Não colocar gelo ou água",
+    "link_afiliado": "https://s.shopee.com.br/2VsufzamnH",
+    "preco": 36.95,
+    "categoria": "Mochilas",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820li-mristuh3mmth64.webp"
+  },
+  {
+    "id": 22,
+    "nome_produto": "6 Jogo Americano Juta Vermelho - Impermeável Limpa Facil Pvc",
+    "link_afiliado": "https://s.shopee.com.br/8VA7oxwaw5",
+    "preco": 42.0,
+    "categoria": "Cozinha",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mh53pkt0cjyc3b.webp"
+  },
+  {
+    "id": 21,
+    "nome_produto": "Carrinho Organizador De Aço Multiuso 3 Prateleiras Premium Rodízio 360º",
+    "link_afiliado": "https://s.shopee.com.br/8AXHQFrhDf",
+    "preco": 138.47,
+    "categoria": "Cozinha",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-7rffd-m9hn0dh7ck0pdf.webp"
+  },
+  {
+    "id": 20,
+    "nome_produto": "kit 3 Bermudas Masculina short tactel elastano masculino com logo refletivo",
+    "link_afiliado": "https://s.shopee.com.br/gRGUOHf01",
+    "preco": 59.3,
+    "categoria": "Roupas",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134201-820l4-mt5ycguqd8ud8c.webp"
+  },
+  {
+    "id": 19,
+    "nome_produto": "{ORIGINAL} KIT Carregador Cabo E Fonte Tipo C Lightning XR,11,12,13,14 LACRADO lehmox",
+    "link_afiliado": "https://s.shopee.com.br/8fTY0z3AAN",
+    "preco": 67.12,
+    "categoria": "Eletronicos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-7rdx9-m18noigfcx8e96.webp"
+  },
+  {
+    "id": 17,
+    "nome_produto": "Progressiva Sem formol Orgânica Profissional 1 Litro",
+    "link_afiliado": "https://s.shopee.com.br/20we4bk0NK",
+    "preco": 53.9,
+    "categoria": "Cabelos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-ls94mim8y33892.webp"
+  },
+  {
+    "id": 16,
+    "nome_produto": "Carregador Portátil Mini Power Bank 10000mAh Com 02 Saídas Tipo-C / Lightning",
+    "link_afiliado": "https://s.shopee.com.br/gRGU5zUlR",
+    "preco": 31.99,
+    "categoria": "Eletronicos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-81zvk-mik9ovwbhszk62.webp"
+  },
+  {
+    "id": 15,
+    "nome_produto": "Kit 100 Bolas de Natal com Estrela ou Kit 50 Enfeite Árvore Vermelha Dourada Mista Fosca Glitter",
+    "link_afiliado": "https://s.shopee.com.br/9V2f0G27hW",
+    "preco": 79.9,
+    "categoria": "Natal",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-82584-mu0wlh0ytywz41.webp"
+  },
+  {
+    "id": 14,
+    "nome_produto": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas para Reparo de Carros",
+    "link_afiliado": "https://s.shopee.com.br/1BZgdq5cU",
+    "preco": 28.99,
+    "categoria": "Kit",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820l9-mqt86n8incape7.webp"
+  },
+  {
+    "id": 13,
+    "nome_produto": "Vestido longo moda cristã feminino em Viscose/Viscolinho casual de alça Muito Lindo com elástico.",
+    "link_afiliado": "https://s.shopee.com.br/5VWWEgECpt",
+    "preco": 59.0,
+    "categoria": "Roupas",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820lj-mqp8p2aduzgi34.webp"
+  },
+  {
+    "id": 12,
+    "nome_produto": "Fone de ouvido Wireless sem fio Bluetooth 760BT Microfone Pure Bass Cancelamento Ativo de Ruído Mp3",
+    "link_afiliado": "https://s.shopee.com.br/7AekDgVPKn",
+    "preco": 39.55,
+    "categoria": "Eletronicos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820m1-mtdw9dzq5vcw6e.webp"
+  },
+  {
+    "id": 11,
+    "nome_produto": "Creatina Monohidratada Pura 300g Dark Lab - 100% Pura",
+    "link_afiliado": "https://s.shopee.com.br/906OOwb5NA",
+    "preco": 39.9,
+    "categoria": "Fitness",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820l8-ms0du9lcw8p1d3.webp"
+  },
+  {
+    "id": 10,
+    "nome_produto": "Óculos de Sol Capri Feminino Quadrado Grande Premium Clássico Blogueira Com Case uv400",
+    "link_afiliado": "https://s.shopee.com.br/2BG4GK77Ef",
+    "preco": 59.99,
+    "categoria": "Óculos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820lg-mmao57yunfgg0d.webp"
+  },
+  {
+    "id": 9,
+    "nome_produto": "Cascata 400 Led's 10 Metros Fixo ou 8 Funções 110v/220v Decoração Interna ou Externa",
+    "link_afiliado": "https://s.shopee.com.br/8pmyCWmalP",
+    "preco": 58.0,
+    "categoria": "Natal",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820ls-mtdy9yqpiltv31.webp"
+  },
+  {
+    "id": 8,
+    "nome_produto": "Kit 100 Bolas de Natal e Estrela ou Kit 50 Enfeite Árvore Mista Vermelha Dourada Fosca Glitter",
+    "link_afiliado": "https://s.shopee.com.br/1146s59a6b",
+    "preco": 12.9,
+    "categoria": "Natal",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-8258v-muigu8mn3fgh2a.webp"
+  },
+  {
+    "id": 7,
+    "nome_produto": "Omeleteira Agratto Mr Cheff Inox Redonda 127v / 220v",
+    "link_afiliado": "https://s.shopee.com.br/1LgxGddh7J",
+    "preco": 115.9,
+    "categoria": "Cozinha",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820ll-mmc8h9uyaoee6b.webp"
+  },
+  {
+    "id": 6,
+    "nome_produto": "Óculos de Sol Espotivo Premium Edição Limitada Baixa Pace Ciclismo Corrida VerãoTendencia uv400",
+    "link_afiliado": "https://s.shopee.com.br/1LgwuTVcgn",
+    "preco": 59.99,
+    "categoria": "Óculos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820mf-mn5w0chbbvnk63.webp"
+  }
+]
