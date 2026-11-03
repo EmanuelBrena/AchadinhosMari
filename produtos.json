@@ -1,5 +1,181 @@
 [
   {
+    "id": 99,
+    "nome_produto": "Chinelo Adulto Masculino Confortável Leve e Antiderrapante",
+    "link_afiliado": "https://s.shopee.com.br/3LS7ye4i6z",
+    "preco": 19.9,
+    "categoria": "Chinelos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820lc-msv9x4r1nax20d.webp"
+  },
+  {
+    "id": 98,
+    "nome_produto": "Kit 5 a 30 prato fundo com borda branco refeição churrasco festa jantar sopa Jogo de pratos plastico",
+    "link_afiliado": "https://s.shopee.com.br/5Atm9vUbtK",
+    "preco": 12.9,
+    "categoria": "Kit",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134201-820me-mqx3b4199erp24.webp"
+  },
+  {
+    "id": 97,
+    "nome_produto": "Kit 3 Vasos Decorativos Preto em Espiral Decoração Moderna para Sala e Estante",
+    "link_afiliado": "https://s.shopee.com.br/30pHZtMTIQ",
+    "preco": 24.79,
+    "categoria": "Kit",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820ly-mrx0wm0ryn0m87.webp"
+  },
+  {
+    "id": 96,
+    "nome_produto": "Sérum Leave-in com Tecnologia Ativada por Calor para Efeito Liso, Antifrizz, L'Oréal Paris",
+    "link_afiliado": "https://s.shopee.com.br/3B8hm8aeV0",
+    "preco": 34.23,
+    "categoria": "Produtos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820md-mpmi7ellauwy82.webp"
+  },
+  {
+    "id": 95,
+    "nome_produto": "KIT COM PLACAS DE PAINEL RIPADO AUTOADESIVO EM MDF 40x10cm - Envio Full",
+    "link_afiliado": "https://s.shopee.com.br/1Bg0Fx7cI",
+    "preco": 14.2,
+    "categoria": "Kit",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m8xlbtitngahc1.webp"
+  },
+  {
+    "id": 94,
+    "nome_produto": "Kit 2 Óleos Extraordinário Elseve 100ml Nutrição Profunda e Anti-Frizz",
+    "link_afiliado": "https://s.shopee.com.br/1Lh3aeTLBg",
+    "preco": 69.99,
+    "categoria": "Kit",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820lm-mu0z10dr92ir66.webp"
+  },
+  {
+    "id": 93,
+    "nome_produto": "Cordão LED Strobo 10m 100 LEDs (80 Fixo + 20 Strobo) Conexão Macho Fêmea Natal Arvore pisca pisca",
+    "link_afiliado": "https://s.shopee.com.br/2BGAa8RNdu",
+    "preco": 29.99,
+    "categoria": "Natal",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/sg-11134201-824j8-me90op7n3htu4f.webp"
+  },
+  {
+    "id": 92,
+    "nome_produto": "Protetor Impermeável Capa Colchão Matelada Cama Quarto Berço, Solteiro, Casal...",
+    "link_afiliado": "https://s.shopee.com.br/114DBrzNkv",
+    "preco": 25.9,
+    "categoria": "Quarto",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m97a2cdipgcic6.webp"
+  },
+  {
+    "id": 91,
+    "nome_produto": "Kit 2 Blusas Alça Básica Regata Feminina Suplex Lisa",
+    "link_afiliado": "https://s.shopee.com.br/9zz1uIP8U3",
+    "preco": 38.89,
+    "categoria": "Kit",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mgy1ok4z7aisbd.webp"
+  },
+  {
+    "id": 90,
+    "nome_produto": "Mega promoção queima de estoque Sandália Saltinho 4 cm Tira de Strass Brilho",
+    "link_afiliado": "https://s.shopee.com.br/4fxVYPz4Rj",
+    "preco": 35.95,
+    "categoria": "Roupas",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134201-820mh-mqybhm8uitj801.webp"
+  },
+  {
+    "id": 89,
+    "nome_produto": "Kit Com Até 12 Peças Cabeceira Modular + Painel Ripado MDF Para Cama Box Casal King Queen - Envio24h",
+    "link_afiliado": "https://s.shopee.com.br/60St8mI0NH",
+    "preco": 28.35,
+    "categoria": "Kit",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-820ls-mtr8nc3pmakgd9.webp"
+  },
+  {
+    "id": 88,
+    "nome_produto": "EZ Vip Rose - Eau de Parfum 100ml LANÇAMENTO EXCLUSIVO",
+    "link_afiliado": "https://s.shopee.com.br/2gCRAax3Gv",
+    "preco": 44.9,
+    "categoria": "Perfumes",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-81ztc-mjrcbybqujghc2.webp"
+  },
+  {
+    "id": 87,
+    "nome_produto": "Lava Roupas Liquido Baby Soft Max Performance Azul - 3l",
+    "link_afiliado": "https://s.shopee.com.br/2BGAZaaEW1",
+    "preco": 26.4,
+    "categoria": "Produtos",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-7r98o-m5kdrubq70jp86.webp"
+  },
+  {
+    "id": 86,
+    "nome_produto": "Sutiã Adesivo de Silicone Invisível e Confortável Sem Alças que Aumenta e Levanta os Seios",
+    "link_afiliado": "https://s.shopee.com.br/9V2lJ05X1o",
+    "preco": 13.75,
+    "categoria": "Roupas",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mf58aj7p1kp2eb.webp"
+  },
+  {
+    "id": 85,
+    "nome_produto": "Gancho Adesivo para Parede Transparente Cozinha Sem Costura Gancho Adesivos Banheiro Organizado",
+    "link_afiliado": "https://s.shopee.com.br/gRMmforcm",
+    "preco": 0.49,
+    "categoria": "Banheiro",
+    "imagem_url": "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mi3umum6ax35df.webp"
+  },
+  {
+    "id": 84,
+    "nome_produto": "Hub USB Tipo C Adaptador Multifuncional 4 5 7 8 em 1 ou 8em2 USB 3.0 HDMI Leitor de Cartão SD TF",
+    "link_afiliado": "https://s.shopee.com.br/114DBDbsF0",
+    "preco": 13.5,
+    "categoria": "Eletronicos",
+    "imagem_url": "https://down-tx-br.img.susercontent.com/br-11134207-81ztc-mjewkx7069z5f0.webp"
+  },
+  {
+    "id": 83,
+    "nome_produto": "chinelo adulto feminino sandália feminina chinelo nuvem Eva",
+    "link_afiliado": "https://s.shopee.com.br/1qdKAeoKAO",
+    "preco": 31.92,
+    "categoria": "Chinelos",
+    "imagem_url": "https://down-tx-br.img.susercontent.com/br-11134207-820l7-mn4eom73zhtw70.webp"
+  },
+  {
+    "id": 82,
+    "nome_produto": "Barra de Proteína Snacks Protein Bar Flash 35g 10 Unids Bodyaction",
+    "link_afiliado": "https://s.shopee.com.br/2Vt0xnEGUq",
+    "preco": 53.9,
+    "categoria": "Fitness",
+    "imagem_url": "https://down-tx-br.img.susercontent.com/br-11134207-820la-mnlhyfwwl05g38.webp"
+  },
+  {
+    "id": 81,
+    "nome_produto": "Conjunto 2/3/5/10 Potes 370/640/640ml Vidro Hermético Mantimentos Marmita Fitness",
+    "link_afiliado": "https://s.shopee.com.br/80DxVq4Dtv",
+    "preco": 27.89,
+    "categoria": "Kit",
+    "imagem_url": "https://down-tx-br.img.susercontent.com/br-11134207-820md-mucaft9u86bmd5.webp"
+  },
+  {
+    "id": 80,
+    "nome_produto": "Kit Skincare Vitamina C Clareador e Anti-idade - Dermachem",
+    "link_afiliado": "https://s.shopee.com.br/7fb77Axld9",
+    "preco": 59.9,
+    "categoria": "Kit",
+    "imagem_url": "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-mcb75movn84gc5.webp"
+  },
+  {
+    "id": 79,
+    "nome_produto": "Kit 3 ou 6 Tapete De Banheiro 45x70cm Pezinho Piso Luxo Atoalhado 100% Algodão Premium",
+    "link_afiliado": "https://s.shopee.com.br/5LDCKk1UCX",
+    "preco": 29.9,
+    "categoria": "Kit",
+    "imagem_url": "https://down-tx-br.img.susercontent.com/br-11134201-820lf-mue1ofvyqghs42.webp"
+  },
+  {
+    "id": 77,
+    "nome_produto": "Presépio De Natal Manjedoura Decoração Enfeite Natalino Mdf",
+    "link_afiliado": "https://s.shopee.com.br/20wkMWTSIy",
+    "preco": 34.9,
+    "categoria": "Natal",
+    "imagem_url": "https://down-tx-br.img.susercontent.com/sg-11134201-821e1-mgzrq0k1qtceba.webp"
+  },
+  {
     "id": 76,
     "nome_produto": "Kit C/4 Sutiã Básico Reforçado Com Bojo Do P Ao Gg Direto da Fábrica",
     "link_afiliado": "https://s.shopee.com.br/4LKbrgdY9n",
